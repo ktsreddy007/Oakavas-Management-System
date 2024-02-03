@@ -12,6 +12,7 @@ Download compatible version from [https://www.apachefriends.org/download.html]
 phpMyAdmin : version 5.2.1
 
 Download version 4.4.14 from [https://www.phpmyadmin.net/downloads/]
+
 For latest version visit
 
 Host: 127.0.0.1
@@ -27,6 +28,7 @@ Steps
 4.Type this in web browser
 
 http://localhost:80/Admin.html/ (80/8080 can be used in place of 85 if port allocation problem arises)
+
 5.Go to Xampp control Panel and Start Apache & MySQL
 
 6.Again,type in browser
@@ -34,6 +36,7 @@ http://localhost:80/Admin.html/ (80/8080 can be used in place of 85 if port allo
 http://localhost/phpmyadmin/
 
 7.Create a database: votingsystem.db
+
 8.Import file: votingsystem.db.sql in the Import section of the database created.
 
 9.Save
