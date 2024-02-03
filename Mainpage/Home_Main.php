@@ -16,7 +16,7 @@
             </ul>
             <img src="lang.png" class="langlogo">
             <link href='https://fonts.googleapis.com/css?family=Oswald:400' rel='stylesheet' type='text/css'>
-            <a href="http://stackoverflow.com" class="btnStack">LOGIN / REGISTER</a>
+            <a href="/OakAvas/admin/index.php" class="btnStack">LOGIN / REGISTER</a>
         </div>
         <div class="content">
             <h1>Welcome to OakAvas Management System</h1>
