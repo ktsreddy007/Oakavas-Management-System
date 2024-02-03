@@ -8,13 +8,16 @@ Requirements
 XAMPP :
 
 Download compatible version from [https://www.apachefriends.org/download.html] 
+
 phpMyAdmin : version 5.2.1
 
 Download version 4.4.14 from [https://www.phpmyadmin.net/downloads/]
 For latest version visit
+
 Host: 127.0.0.1
 
 Steps
+
 1.Download the zip file from branch Devfix
 
 2.Don't change any name of the files.
