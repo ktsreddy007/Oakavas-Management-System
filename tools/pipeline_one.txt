@@ -1,0 +1,12 @@
+Pipeline {
+	agent any
+	stages {
+ 		stage("Building the code") {
+		steps {
+		    echo "welcome to Oak Avas pipeline"
+}
+}
+}
+}
+
+
